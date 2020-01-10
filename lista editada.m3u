@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 01" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda 01
-http://psrv.io:80/74447077884/snakeplay/27861
 #EXTINF:-1 tvg-id="Eurochannel" tvg-name="A&E FHD" tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
 http://psrv.io:80/74447077884/snakeplay/18858
 #EXTINF:-1 tvg-id="Curta!" tvg-name="A&E FHD [H265]" tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]
@@ -51,12 +49,8 @@ http://psrv.io:80/74447077884/snakeplay/18731
 http://psrv.io:80/74447077884/snakeplay/28340
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV SD" tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
 http://psrv.io:80/74447077884/snakeplay/18729
-#EXTINF:-1 tvg-id="Band Bahia" tvg-name="Band Bahia SD" tvg-logo="http://z4.vc/68l" group-title="Canais | Abertos",Band Bahia SD
-http://psrv.io:80/74447077884/snakeplay/28060
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SD" tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
 http://psrv.io:80/74447077884/snakeplay/22242
-#EXTINF:-1 tvg-id="Band Aracaju HD" tvg-name="Band Sergipe HD" tvg-logo="http://z4.vc/68l" group-title="Canais | Abertos",Band Sergipe HD
-http://psrv.io:80/74447077884/snakeplay/22476
 #EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="http://z4.vc/iGF" group-title="Canais | Abertos",Band SP FHD
 http://psrv.io:80/74447077884/snakeplay/18786
 #EXTINF:-1 tvg-id="" tvg-name="Band SP FHD [H265]" tvg-logo="http://z4.vc/wHL" group-title="Canais | Abertos",Band SP FHD [H265]
@@ -91,10 +85,6 @@ http://psrv.io:80/74447077884/snakeplay/22150
 http://psrv.io:80/74447077884/snakeplay/18721
 #EXTINF:-1 tvg-id="BIS" tvg-name="Bis SD" tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
 http://psrv.io:80/74447077884/snakeplay/18722
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Television" tvg-logo="" group-title="Canais | Internacionais",Bloomberg Television
-http://psrv.io:80/74447077884/snakeplay/28159
-#EXTINF:-1 tvg-id="" tvg-name="Boing Kids [ESP]" tvg-logo="" group-title="Canais | Internacionais",Boing Kids [ESP]
-http://psrv.io:80/74447077884/snakeplay/28166
 #EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="http://z4.vc/6f2" group-title="Canais | Infantis",Boomerang FHD
 http://psrv.io:80/74447077884/snakeplay/18851
 #EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD [H265]" tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
@@ -103,10 +93,6 @@ http://psrv.io:80/74447077884/snakeplay/25317
 http://psrv.io:80/74447077884/snakeplay/18718
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD" tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
 http://psrv.io:80/74447077884/snakeplay/18719
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA HD" tvg-logo="" group-title="Canais | Internacionais",CANAL 26 ARGENTINA HD
-http://psrv.io:80/74447077884/snakeplay/26427
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 33" tvg-logo="" group-title="Canais | Internacionais",CANAL 33
-http://psrv.io:80/74447077884/snakeplay/28050
 #EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil FHD
 http://psrv.io:80/74447077884/snakeplay/18753
 #EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://z4.vc/bUk" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
@@ -135,10 +121,6 @@ http://psrv.io:80/74447077884/snakeplay/25313
 http://psrv.io:80/74447077884/snakeplay/18709
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax SD" tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
 http://psrv.io:80/74447077884/snakeplay/18710
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="" group-title="Canais | Internacionais",CNN INTERNACIONAL HD
-http://psrv.io:80/74447077884/snakeplay/28054
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
-http://psrv.io:80/74447077884/snakeplay/26438
 #EXTINF:-1 tvg-id="TV5" tvg-name="Combate FHD" tvg-logo="http://z4.vc/2Bh" group-title="Canais | Esportes",Combate FHD
 http://psrv.io:80/74447077884/snakeplay/18784
 #EXTINF:-1 tvg-id="TV5" tvg-name="Combate FHD [H265]" tvg-logo="http://z4.vc/na3" group-title="Canais | Esportes",Combate FHD [H265]
@@ -185,8 +167,6 @@ http://psrv.io:80/74447077884/snakeplay/28387
 http://psrv.io:80/74447077884/snakeplay/28388
 #EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 6" tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 6
 http://psrv.io:80/74447077884/snakeplay/28389
-#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="" group-title="Canais | Internacionais",DIGI 24 HD
-http://psrv.io:80/74447077884/snakeplay/28042
 #EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel FHD" tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",Discovery Channel FHD
 http://psrv.io:80/74447077884/snakeplay/18783
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://z4.vc/0v1" group-title="Canais | Documentários",Discovery Channel FHD [H265]
@@ -273,10 +253,6 @@ http://psrv.io:80/74447077884/snakeplay/22321
 http://psrv.io:80/74447077884/snakeplay/28001
 #EXTINF:-1 tvg-id="DogTV HD" tvg-name="Dog TV HD" tvg-logo="http://z4.vc/6nk" group-title="Canais | Variedades",Dog TV HD
 http://psrv.io:80/74447077884/snakeplay/28000
-#EXTINF:-1 tvg-id="" tvg-name="DW ALEMANHA HD" tvg-logo="" group-title="Canais | Internacionais",DW ALEMANHA HD
-http://psrv.io:80/74447077884/snakeplay/26429
-#EXTINF:-1 tvg-id="" tvg-name="E FHD" tvg-logo="" group-title="Canais | Internacionais",E FHD
-http://psrv.io:80/74447077884/snakeplay/28399
 #EXTINF:-1 tvg-id="E! FHD" tvg-name="E! FHD" tvg-logo="http://z4.vc/7nN" group-title="Canais | Variedades",E! FHD
 http://psrv.io:80/74447077884/snakeplay/18838
 #EXTINF:-1 tvg-id="E! FHD" tvg-name="E! FHD [H265]" tvg-logo="http://z4.vc/HbJ" group-title="Canais | Variedades",E! FHD [H265]
@@ -335,8 +311,6 @@ http://psrv.io:80/74447077884/snakeplay/18673
 http://psrv.io:80/74447077884/snakeplay/18680
 #EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN [4K]" tvg-logo="http://z4.vc/IIo" group-title="Canais | 4K",ESPN [4K]
 http://psrv.io:80/74447077884/snakeplay/27130
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel FHD" tvg-logo="" group-title="Canais | Internacionais",Euro Channel FHD
-http://psrv.io:80/74447077884/snakeplay/28400
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV [H265]" tvg-logo="" group-title="Canais | Variedades",FASHION TV [H265]
 http://psrv.io:80/74447077884/snakeplay/25236
 #EXTINF:-1 tvg-id="Curta!" tvg-name="Film & Arts SD" tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
@@ -437,66 +411,12 @@ http://psrv.io:80/74447077884/snakeplay/18654
 http://psrv.io:80/74447077884/snakeplay/22233
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX SD [Legendado]" tvg-logo="http://z4.vc/OsR" group-title="Canais | Legendados",FX SD [Legendado]
 http://psrv.io:80/74447077884/snakeplay/28362
-#EXTINF:-1 tvg-id="Globo Brasília FHD" tvg-name="Globo Brasilia FHD" tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Brasilia FHD
-http://psrv.io:80/74447077884/snakeplay/28390
-#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="Globo Brasilia HD" tvg-logo="http://z4.vc/Vli" group-title="Canais | Globo",Globo Brasilia HD
-http://psrv.io:80/74447077884/snakeplay/18434
-#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia SD" tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Brasilia SD
-http://psrv.io:80/74447077884/snakeplay/18435
-#EXTINF:-1 tvg-id="" tvg-name="Globo Campinas FHD [H265]" tvg-logo="http://z4.vc/CsO" group-title="Canais | Globo",Globo Campinas FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25210
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://z4.vc/5XU" group-title="Canais | Globo",Globo EPTV Araraquara SD
-http://psrv.io:80/74447077884/snakeplay/18433
-#EXTINF:-1 tvg-id="EPTV Campinas HD" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://z4.vc/n8G" group-title="Canais | Globo",Globo EPTV Campinas SD
-http://psrv.io:80/74447077884/snakeplay/18431
-#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://z4.vc/pqb" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto HD
 http://psrv.io:80/74447077884/snakeplay/18430
-#EXTINF:-1 tvg-id="EPTV Ribeirão HD" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://z4.vc/5Uj" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
+#EXTINF:-1 tvg-id="EPTV Ribeirão HD" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto SD
 http://psrv.io:80/74447077884/snakeplay/18429
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="http://z4.vc/nrI" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
-http://psrv.io:80/74447077884/snakeplay/18428
 #EXTINF:-1 tvg-id="" tvg-name="Globo Esporte HD" tvg-logo="" group-title="Canais | Jogos & Eventos",Globo Esporte HD
 http://psrv.io:80/74447077884/snakeplay/28376
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://z4.vc/pzi" group-title="Canais | Globo",GLOBO INTER TV ALTO LITORAL FHD
-http://psrv.io:80/74447077884/snakeplay/28079
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://z4.vc/CCo" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
-http://psrv.io:80/74447077884/snakeplay/18358
-#EXTINF:-1 tvg-id="Inter TV Alto Litoral FHD" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://z4.vc/hmV" group-title="Canais | Globo",Globo Inter TV Alto Litoral HD
-http://psrv.io:80/74447077884/snakeplay/18357
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral SD" tvg-logo="http://z4.vc/t4S" group-title="Canais | Globo",Globo Inter TV Alto Litoral SD
-http://psrv.io:80/74447077884/snakeplay/18356
-#EXTINF:-1 tvg-id="Inter TV dos Vales FHD" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://z4.vc/eQR" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
-http://psrv.io:80/74447077884/snakeplay/18355
-#EXTINF:-1 tvg-id="Inter TV dos Vales HD" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://z4.vc/42v" group-title="Canais | Globo",Globo Inter TV dos Vales HD
-http://psrv.io:80/74447077884/snakeplay/18354
-#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="Globo Inter TV dos Vales SD" tvg-logo="http://z4.vc/q6B" group-title="Canais | Globo",Globo Inter TV dos Vales SD
-http://psrv.io:80/74447077884/snakeplay/18353
-#EXTINF:-1 tvg-id="Inter TV Grande Minas HD" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://z4.vc/gfx" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
-http://psrv.io:80/74447077884/snakeplay/18352
-#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://z4.vc/BEQ" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
-http://psrv.io:80/74447077884/snakeplay/18351
-#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter TV Grande Minas SD" tvg-logo="http://z4.vc/6dU" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
-http://psrv.io:80/74447077884/snakeplay/18350
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Natal SD" tvg-logo="http://z4.vc/mVk" group-title="Canais | Globo",Globo Inter TV Natal SD
-http://psrv.io:80/74447077884/snakeplay/18427
-#EXTINF:-1 tvg-id="Inter TV Serra Mar FHD" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://z4.vc/dlF" group-title="Canais | Globo",Globo Inter TV Serra Mar FHD
-http://psrv.io:80/74447077884/snakeplay/18349
-#EXTINF:-1 tvg-id="Inter TV Serra Mar HD" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://z4.vc/0jO" group-title="Canais | Globo",Globo Inter TV Serra Mar HD
-http://psrv.io:80/74447077884/snakeplay/18348
-#EXTINF:-1 tvg-id="Inter TV Serra Mar" tvg-name="Globo Inter TV Serra Mar SD" tvg-logo="http://z4.vc/4BA" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
-http://psrv.io:80/74447077884/snakeplay/18347
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mato Grosso FHD" tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Mato Grosso FHD
-http://psrv.io:80/74447077884/snakeplay/28394
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mato Grosso HD" tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Mato Grosso HD
-http://psrv.io:80/74447077884/snakeplay/28393
-#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD" tvg-logo="http://z4.vc/KxL" group-title="Canais | Globo",Globo Minas FHD
-http://psrv.io:80/74447077884/snakeplay/18377
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD [H265]" tvg-logo="http://z4.vc/KZ2" group-title="Canais | Globo",Globo Minas FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25209
-#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="Globo Minas HD" tvg-logo="http://z4.vc/4YI" group-title="Canais | Globo",Globo Minas HD
-http://psrv.io:80/74447077884/snakeplay/18425
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas SD" tvg-logo="http://z4.vc/ep1" group-title="Canais | Globo",Globo Minas SD
-http://psrv.io:80/74447077884/snakeplay/18426
 #EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="Globo News FHD" tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
 http://psrv.io:80/74447077884/snakeplay/18776
 #EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="Globo News FHD [H265]" tvg-logo="http://z4.vc/5tp" group-title="Canais | Notícias",Globo News FHD [H265]
@@ -505,196 +425,6 @@ http://psrv.io:80/74447077884/snakeplay/22193
 http://psrv.io:80/74447077884/snakeplay/18651
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News SD" tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
 http://psrv.io:80/74447077884/snakeplay/18652
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="http://z4.vc/97A" group-title="Canais | Globo",Globo Nordeste FHD
-http://psrv.io:80/74447077884/snakeplay/18376
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste FHD" tvg-logo="http://z4.vc/Qrd" group-title="Canais | Globo",Globo Nordeste FHD
-http://psrv.io:80/74447077884/snakeplay/18423
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD [H265]" tvg-logo="http://z4.vc/ft1" group-title="Canais | Globo",Globo Nordeste FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25208
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste SD" tvg-logo="http://z4.vc/p5d" group-title="Canais | Globo",Globo Nordeste SD
-http://psrv.io:80/74447077884/snakeplay/18424
-#EXTINF:-1 tvg-id="NSC TV Blumenau FHD" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://z4.vc/gY7" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
-http://psrv.io:80/74447077884/snakeplay/18346
-#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://z4.vc/5W5" group-title="Canais | Globo",Globo NSC TV Blumenau HD
-http://psrv.io:80/74447077884/snakeplay/18345
-#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://z4.vc/hEE" group-title="Canais | Globo",Globo NSC TV Blumenau SD
-http://psrv.io:80/74447077884/snakeplay/18344
-#EXTINF:-1 tvg-id="NSC TV Chapecó" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://z4.vc/svh" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
-http://psrv.io:80/74447077884/snakeplay/18394
-#EXTINF:-1 tvg-id="NSC TV Chapecó HD" tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://z4.vc/JTq" group-title="Canais | Globo",Globo NSC TV Chapeco HD
-http://psrv.io:80/74447077884/snakeplay/18393
-#EXTINF:-1 tvg-id="NSC TV Chapecó" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://z4.vc/G4s" group-title="Canais | Globo",Globo NSC TV Chapeco SD
-http://psrv.io:80/74447077884/snakeplay/18392
-#EXTINF:-1 tvg-id="NSC TV Florianópolis FHD" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://z4.vc/Vey" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD
-http://psrv.io:80/74447077884/snakeplay/18375
-#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://z4.vc/5Kj" group-title="Canais | Globo",Globo NSC TV Florianopolis HD
-http://psrv.io:80/74447077884/snakeplay/18421
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://z4.vc/cHX" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
-http://psrv.io:80/74447077884/snakeplay/18422
-#EXTINF:-1 tvg-id="NSC TV Joinville FHD" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://z4.vc/urQ" group-title="Canais | Globo",Globo NSC TV Joinville FHD
-http://psrv.io:80/74447077884/snakeplay/18340
-#EXTINF:-1 tvg-id="NSC TV Joinville HD" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://z4.vc/ihU" group-title="Canais | Globo",Globo NSC TV Joinville HD
-http://psrv.io:80/74447077884/snakeplay/18339
-#EXTINF:-1 tvg-id="NSC TV Joinville" tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://z4.vc/e5c" group-title="Canais | Globo",Globo NSC TV Joinville SD
-http://psrv.io:80/74447077884/snakeplay/18338
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre FHD" tvg-name="Globo RBS Porto Alegre FHD" tvg-logo="http://z4.vc/sLB" group-title="Canais | Globo",Globo RBS Porto Alegre FHD
-http://psrv.io:80/74447077884/snakeplay/18374
-#EXTINF:-1 tvg-id="RBS TV Caxias FHD" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://z4.vc/kga" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
-http://psrv.io:80/74447077884/snakeplay/18343
-#EXTINF:-1 tvg-id="RBS TV Caxias HD" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://z4.vc/Plw" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
-http://psrv.io:80/74447077884/snakeplay/18342
-#EXTINF:-1 tvg-id="RBS TV Caxias" tvg-name="Globo RBS TV Caxias do Sul SD" tvg-logo="http://z4.vc/h4k" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
-http://psrv.io:80/74447077884/snakeplay/18341
-#EXTINF:-1 tvg-id="RBS TV Pelotas FHD" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://z4.vc/Pwb" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
-http://psrv.io:80/74447077884/snakeplay/18337
-#EXTINF:-1 tvg-id="RBS TV Pelotas HD" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://z4.vc/iZY" group-title="Canais | Globo",Globo RBS TV Pelotas HD
-http://psrv.io:80/74447077884/snakeplay/18336
-#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://z4.vc/GMl" group-title="Canais | Globo",Globo RBS TV Pelotas SD
-http://psrv.io:80/74447077884/snakeplay/18335
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://z4.vc/wJx" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
-http://psrv.io:80/74447077884/snakeplay/18419
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://z4.vc/CX5" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
-http://psrv.io:80/74447077884/snakeplay/18420
-#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-name="Globo Rede Amazonas Manaus SD" tvg-logo="http://z4.vc/X3N" group-title="Canais | Globo",Globo Rede Amazonas Manaus SD
-http://psrv.io:80/74447077884/snakeplay/18418
-#EXTINF:-1 tvg-id="Globo Rio FHD" tvg-name="Globo RJ FHD" tvg-logo="http://z4.vc/k7r" group-title="Canais | Globo",Globo RJ FHD
-http://psrv.io:80/74447077884/snakeplay/18415
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD [H265]" tvg-logo="http://z4.vc/pzi" group-title="Canais | Globo",Globo RJ FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25232
-#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo RJ HD" tvg-logo="http://z4.vc/CpN" group-title="Canais | Globo",Globo RJ HD
-http://psrv.io:80/74447077884/snakeplay/18416
-#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ SD" tvg-logo="http://z4.vc/FYM" group-title="Canais | Globo",Globo RJ SD
-http://psrv.io:80/74447077884/snakeplay/18417
-#EXTINF:-1 tvg-id="RPC Curitiba HD" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://z4.vc/8Bl" group-title="Canais | Globo",Globo RPC Curitiba HD
-http://psrv.io:80/74447077884/snakeplay/18413
-#EXTINF:-1 tvg-id="RPC Curitiba FHD" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://z4.vc/F32" group-title="Canais | Globo",Globo RPC Curitiba SD
-http://psrv.io:80/74447077884/snakeplay/18412
-#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://z4.vc/HQs" group-title="Canais | Globo",Globo RPC Curitiba SD
-http://psrv.io:80/74447077884/snakeplay/18414
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu FHD" tvg-name="Globo RPC Foz do Iguacu FHD" tvg-logo="http://z4.vc/Fwm" group-title="Canais | Globo",Globo RPC Foz do Iguacu FHD
-http://psrv.io:80/74447077884/snakeplay/18390
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="Globo RPC Foz do Iguacu HD" tvg-logo="http://z4.vc/acv" group-title="Canais | Globo",Globo RPC Foz do Iguacu HD
-http://psrv.io:80/74447077884/snakeplay/18389
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="Globo RPC Foz do Iguacu SD" tvg-logo="http://z4.vc/4u4" group-title="Canais | Globo",Globo RPC Foz do Iguacu SD
-http://psrv.io:80/74447077884/snakeplay/18391
-#EXTINF:-1 tvg-id="TV Maringá FHD" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="http://z4.vc/JTq" group-title="Canais | Globo",GLOBO RPC MARINGA FHD
-http://psrv.io:80/74447077884/snakeplay/28156
-#EXTINF:-1 tvg-id="TV Maringá HD" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="http://z4.vc/G4s" group-title="Canais | Globo",GLOBO RPC MARINGA HD
-http://psrv.io:80/74447077884/snakeplay/28155
-#EXTINF:-1 tvg-id="TV Maringá" tvg-name="GLOBO RPC MARINGA SD" tvg-logo="http://z4.vc/G4s" group-title="Canais | Globo",GLOBO RPC MARINGA SD
-http://psrv.io:80/74447077884/snakeplay/28154
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sao Jose dos Campos SD" tvg-logo="http://z4.vc/rtl" group-title="Canais | Globo",Globo Sao Jose dos Campos SD
-http://psrv.io:80/74447077884/snakeplay/22448
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="http://z4.vc/pzi" group-title="Canais | Globo",Globo SP FHD
-http://psrv.io:80/74447077884/snakeplay/28068
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD [H265]" tvg-logo="http://z4.vc/NDg" group-title="Canais | Globo",Globo SP FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25231
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="http://z4.vc/Vlx" group-title="Canais | Globo",Globo SP HD
-http://psrv.io:80/74447077884/snakeplay/18410
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP SD" tvg-logo="http://z4.vc/tlB" group-title="Canais | Globo",Globo SP SD
-http://psrv.io:80/74447077884/snakeplay/18411
-#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="GLOBO SP [4K]" tvg-logo="http://z4.vc/rxr" group-title="Canais | 4K",GLOBO SP [4K]
-http://psrv.io:80/74447077884/snakeplay/26181
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://z4.vc/9N9" group-title="Canais | Globo",Globo TV Anhanguera FHD
-http://psrv.io:80/74447077884/snakeplay/18373
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://z4.vc/o8M" group-title="Canais | Globo",Globo TV Anhanguera HD
-http://psrv.io:80/74447077884/snakeplay/18407
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera SD" tvg-logo="http://z4.vc/Lu3" group-title="Canais | Globo",Globo TV Anhanguera SD
-http://psrv.io:80/74447077884/snakeplay/18408
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="http://z4.vc/TEc" group-title="Canais | Globo",Globo TV Bahia FHD
-http://psrv.io:80/74447077884/snakeplay/18372
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="http://z4.vc/2HU" group-title="Canais | Globo",Globo TV Bahia HD
-http://psrv.io:80/74447077884/snakeplay/18405
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD" tvg-logo="http://z4.vc/ORA" group-title="Canais | Globo",Globo TV Bahia SD
-http://psrv.io:80/74447077884/snakeplay/18406
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV C. America Cuiaba SD" tvg-logo="http://z4.vc/Ew0" group-title="Canais | Globo",Globo TV C. America Cuiaba SD
-http://psrv.io:80/74447077884/snakeplay/18404
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://z4.vc/VCk" group-title="Canais | Globo",Globo TV Cabo Branco FHD
-http://psrv.io:80/74447077884/snakeplay/18334
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://z4.vc/jIh" group-title="Canais | Globo",Globo TV Cabo Branco HD
-http://psrv.io:80/74447077884/snakeplay/18333
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco SD" tvg-logo="http://z4.vc/V9M" group-title="Canais | Globo",Globo TV Cabo Branco SD
-http://psrv.io:80/74447077884/snakeplay/18332
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://z4.vc/GNp" group-title="Canais | Globo",Globo TV Clube Teresina FHD
-http://psrv.io:80/74447077884/snakeplay/18387
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://z4.vc/Qhi" group-title="Canais | Globo",Globo TV Clube Teresina HD
-http://psrv.io:80/74447077884/snakeplay/18386
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina SD" tvg-logo="http://z4.vc/hiL" group-title="Canais | Globo",Globo TV Clube Teresina SD
-http://psrv.io:80/74447077884/snakeplay/18388
-#EXTINF:-1 tvg-id="Globo Nordeste FHD" tvg-name="Globo TV Diario Fortaleza FHD" tvg-logo="http://z4.vc/3yp" group-title="Canais | Globo",Globo TV Diario Fortaleza FHD
-http://psrv.io:80/74447077884/snakeplay/18740
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo TV Diario Fortaleza HD" tvg-logo="http://z4.vc/JPA" group-title="Canais | Globo",Globo TV Diario Fortaleza HD
-http://psrv.io:80/74447077884/snakeplay/18490
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo TV Diario Fortaleza SD" tvg-logo="http://z4.vc/i2a" group-title="Canais | Globo",Globo TV Diario Fortaleza SD
-http://psrv.io:80/74447077884/snakeplay/18489
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://z4.vc/P3s" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
-http://psrv.io:80/74447077884/snakeplay/18363
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://z4.vc/rVZ" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
-http://psrv.io:80/74447077884/snakeplay/18362
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas SD" tvg-logo="http://z4.vc/0wh" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
-http://psrv.io:80/74447077884/snakeplay/18364
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://z4.vc/hex" group-title="Canais | Globo",Globo TV Gazeta Sul ES FHD
-http://psrv.io:80/74447077884/snakeplay/18361
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://z4.vc/R14" group-title="Canais | Globo",Globo TV Gazeta Sul ES HD
-http://psrv.io:80/74447077884/snakeplay/18360
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="http://z4.vc/Ri9" group-title="Canais | Globo",Globo TV Gazeta Vitoria FHD
-http://psrv.io:80/74447077884/snakeplay/18384
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://z4.vc/pM2" group-title="Canais | Globo",Globo TV Gazeta Vitoria HD
-http://psrv.io:80/74447077884/snakeplay/18383
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria SD" tvg-logo="http://z4.vc/PMO" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
-http://psrv.io:80/74447077884/snakeplay/18385
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://z4.vc/y1y" group-title="Canais | Globo",Globo TV Liberal Belem SD
-http://psrv.io:80/74447077884/snakeplay/18403
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://z4.vc/iWH" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
-http://psrv.io:80/74447077884/snakeplay/18371
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://z4.vc/XMT" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
-http://psrv.io:80/74447077884/snakeplay/18370
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="http://z4.vc/k9T" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
-http://psrv.io:80/74447077884/snakeplay/18369
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Moreno Campo Grande FHD" tvg-logo="http://z4.vc/Qju" group-title="Canais | Globo",Globo TV Moreno Campo Grande FHD
-http://psrv.io:80/74447077884/snakeplay/18368
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Moreno Campo Grande HD" tvg-logo="http://z4.vc/Auq" group-title="Canais | Globo",Globo TV Moreno Campo Grande HD
-http://psrv.io:80/74447077884/snakeplay/18367
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Moreno Campo Grande SD" tvg-logo="http://z4.vc/jZD" group-title="Canais | Globo",Globo TV Moreno Campo Grande SD
-http://psrv.io:80/74447077884/snakeplay/18366
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://z4.vc/1ax" group-title="Canais | Globo",Globo TV Rio Sul FHD
-http://psrv.io:80/74447077884/snakeplay/18331
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://z4.vc/l2H" group-title="Canais | Globo",Globo TV Rio Sul HD
-http://psrv.io:80/74447077884/snakeplay/18330
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul SD" tvg-logo="http://z4.vc/k1z" group-title="Canais | Globo",Globo TV Rio Sul SD
-http://psrv.io:80/74447077884/snakeplay/18329
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://z4.vc/RhF" group-title="Canais | Globo",Globo TV Santa Cruz FHD
-http://psrv.io:80/74447077884/snakeplay/18328
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://z4.vc/jUt" group-title="Canais | Globo",Globo TV Santa Cruz HD
-http://psrv.io:80/74447077884/snakeplay/18327
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz SD" tvg-logo="http://z4.vc/ZoM" group-title="Canais | Globo",Globo TV Santa Cruz SD
-http://psrv.io:80/74447077884/snakeplay/18326
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://z4.vc/0ho" group-title="Canais | Globo",Globo TV Sergipe HD
-http://psrv.io:80/74447077884/snakeplay/18381
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://z4.vc/PSf" group-title="Canais | Globo",Globo TV Sergipe HD
-http://psrv.io:80/74447077884/snakeplay/18380
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://z4.vc/ERo" group-title="Canais | Globo",Globo TV Sergipe HD
-http://psrv.io:80/74447077884/snakeplay/22475
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe SD" tvg-logo="http://z4.vc/Pj1" group-title="Canais | Globo",Globo TV Sergipe SD
-http://psrv.io:80/74447077884/snakeplay/18382
-#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="Globo TV TEM Bauru SD" tvg-logo="http://z4.vc/zfQ" group-title="Canais | Globo",Globo TV TEM Bauru SD
-http://psrv.io:80/74447077884/snakeplay/18402
-#EXTINF:-1 tvg-id="TV TEM SJRP" tvg-name="Globo TV TEM S. J. do Rio Preto HD" tvg-logo="http://z4.vc/c9W" group-title="Canais | Globo",Globo TV TEM S. J. do Rio Preto HD
-http://psrv.io:80/74447077884/snakeplay/18400
-#EXTINF:-1 tvg-id="TV TEM SJRP HD" tvg-name="Globo TV TEM S. J. do Rio Preto SD" tvg-logo="http://z4.vc/tLN" group-title="Canais | Globo",Globo TV TEM S. J. do Rio Preto SD
-http://psrv.io:80/74447077884/snakeplay/18399
-#EXTINF:-1 tvg-id="TV TEM SJRP FHD" tvg-name="Globo TV TEM S. J. Rio Preto FHD" tvg-logo="http://z4.vc/5rA" group-title="Canais | Globo",Globo TV TEM S. J. Rio Preto FHD
-http://psrv.io:80/74447077884/snakeplay/18365
-#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://z4.vc/F7c" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
-http://psrv.io:80/74447077884/snakeplay/18401
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santas SD" tvg-logo="http://z4.vc/B32" group-title="Canais | Globo",Globo TV Tribuna Santas SD
-http://psrv.io:80/74447077884/snakeplay/18398
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S. J. dos Campos SD" tvg-logo="http://z4.vc/crH" group-title="Canais | Globo",Globo TV Vanguarda S. J. dos Campos SD
-http://psrv.io:80/74447077884/snakeplay/18397
-#EXTINF:-1 tvg-id="TV Cidade Verde HD" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://z4.vc/osc" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza HD
-http://psrv.io:80/74447077884/snakeplay/28395
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="http://z4.vc/osc" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza SD
-http://psrv.io:80/74447077884/snakeplay/18396
 #EXTINF:-1 tvg-id="" tvg-name="GloboSat FHD [H265]" tvg-logo="http://z4.vc/e4t" group-title="Canais | Variedades",GloboSat FHD [H265]
 http://psrv.io:80/74447077884/snakeplay/22129
 #EXTINF:-1 tvg-id="" tvg-name="GloboSat SD" tvg-logo="http://z4.vc/KG5" group-title="Canais | Variedades",GloboSat SD
@@ -807,8 +537,6 @@ http://psrv.io:80/74447077884/snakeplay/22187
 http://psrv.io:80/74447077884/snakeplay/18629
 #EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigacao Discovery SD" tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery SD
 http://psrv.io:80/74447077884/snakeplay/18630
-#EXTINF:-1 tvg-id="" tvg-name="Ideal  TV FHD" tvg-logo="" group-title="Canais | Religiosos",Ideal  TV FHD
-http://psrv.io:80/74447077884/snakeplay/28397
 #EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Life Time FHD" tvg-logo="" group-title="Canais | Filmes e Séries",Life Time FHD
 http://psrv.io:80/74447077884/snakeplay/28401
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Life Time SD" tvg-logo="" group-title="Canais | Filmes e Séries",Life Time SD
@@ -821,16 +549,8 @@ http://psrv.io:80/74447077884/snakeplay/22186
 http://psrv.io:80/74447077884/snakeplay/18627
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime SD" tvg-logo="http://z4.vc/Eyw" group-title="Canais | Variedades",Lifetime SD
 http://psrv.io:80/74447077884/snakeplay/18628
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURAL FHD" tvg-logo="" group-title="Canais | Internacionais",LOVE NATURAL FHD
-http://psrv.io:80/74447077884/snakeplay/26697
 #EXTINF:-1 tvg-id="Mais GloboSat FHD" tvg-name="Mais GloboSat FHD" tvg-logo="http://z4.vc/DiW" group-title="Canais | Variedades",Mais GloboSat FHD
 http://psrv.io:80/74447077884/snakeplay/18754
-#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat FHD [H265]" tvg-logo="http://z4.vc/9d1" group-title="Canais | Variedades",Mais GloboSat FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25291
-#EXTINF:-1 tvg-id="Mais GloboSat HD" tvg-name="Mais GloboSat HD" tvg-logo="http://z4.vc/0yY" group-title="Canais | Variedades",Mais GloboSat HD
-http://psrv.io:80/74447077884/snakeplay/18625
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais GloboSat SD" tvg-logo="http://z4.vc/QSP" group-title="Canais | Variedades",Mais GloboSat SD
-http://psrv.io:80/74447077884/snakeplay/18626
 #EXTINF:-1 tvg-id="" tvg-name="Max FHD" tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max FHD
 http://psrv.io:80/74447077884/snakeplay/18819
 #EXTINF:-1 tvg-id="" tvg-name="Max FHD [H265]" tvg-logo="http://z4.vc/cmn" group-title="Canais | Filmes e Séries",Max FHD [H265]
@@ -877,8 +597,6 @@ http://psrv.io:80/74447077884/snakeplay/18618
 http://psrv.io:80/74447077884/snakeplay/28366
 #EXTINF:-1 tvg-id="Megapix FHD" tvg-name="MEGAPIX [4K]" tvg-logo="http://z4.vc/asB" group-title="Canais | 4K",MEGAPIX [4K]
 http://psrv.io:80/74447077884/snakeplay/26407
-#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV HD" tvg-logo="" group-title="Canais | Internacionais",MIAMI TV HD
-http://psrv.io:80/74447077884/snakeplay/26430
 #EXTINF:-1 tvg-id="MTV FHD" tvg-name="MTV FHD" tvg-logo="http://z4.vc/1kJ" group-title="Canais | Variedades",MTV FHD
 http://psrv.io:80/74447077884/snakeplay/18815
 #EXTINF:-1 tvg-id="MTV FHD" tvg-name="MTV FHD [H265]" tvg-logo="http://z4.vc/zg9" group-title="Canais | Variedades",MTV FHD [H265]
@@ -939,14 +657,6 @@ http://psrv.io:80/74447077884/snakeplay/18609
 http://psrv.io:80/74447077884/snakeplay/18610
 #EXTINF:-1 tvg-id="NBR" tvg-name="NBR SD" tvg-logo="http://z4.vc/97h" group-title="Canais | Abertos",NBR SD
 http://psrv.io:80/74447077884/snakeplay/18604
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD [TEMP]" tvg-logo="" group-title="Canais | Internacionais",NFL Network HD [TEMP]
-http://psrv.io:80/74447077884/snakeplay/28392
-#EXTINF:-1 tvg-id="" tvg-name="NHK JAPAO SD" tvg-logo="http://z4.vc/8Qu" group-title="Canais | Internacionais",NHK JAPAO SD
-http://psrv.io:80/74447077884/snakeplay/26436
-#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK SD" tvg-logo="http://z4.vc/UKk" group-title="Canais | Internacionais",NHK SD
-http://psrv.io:80/74447077884/snakeplay/22219
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD HD" tvg-logo="http://z4.vc/kon" group-title="Canais | Internacionais",NHK WORLD HD
-http://psrv.io:80/74447077884/snakeplay/26435
 #EXTINF:-1 tvg-id="Nick Jr. FHD" tvg-name="Nick Jr FHD" tvg-logo="http://z4.vc/pI8" group-title="Canais | Infantis",Nick Jr FHD
 http://psrv.io:80/74447077884/snakeplay/18808
 #EXTINF:-1 tvg-id="Nick Jr. FHD" tvg-name="Nick Jr FHD [H265]" tvg-logo="http://z4.vc/HZk" group-title="Canais | Infantis",Nick Jr FHD [H265]
@@ -971,16 +681,6 @@ http://psrv.io:80/74447077884/snakeplay/22135
 http://psrv.io:80/74447077884/snakeplay/18598
 #EXTINF:-1 tvg-id="Off" tvg-name="OFF SD" tvg-logo="http://z4.vc/dGv" group-title="Canais | Variedades",OFF SD
 http://psrv.io:80/74447077884/snakeplay/18599
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 1" tvg-logo="" group-title="Canais | Internacionais",Olympic Channel 1
-http://psrv.io:80/74447077884/snakeplay/28160
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 2" tvg-logo="" group-title="Canais | Internacionais",Olympic Channel 2
-http://psrv.io:80/74447077884/snakeplay/28161
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 3" tvg-logo="" group-title="Canais | Internacionais",Olympic Channel 3
-http://psrv.io:80/74447077884/snakeplay/28162
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 4" tvg-logo="" group-title="Canais | Internacionais",Olympic Channel 4
-http://psrv.io:80/74447077884/snakeplay/28163
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 5" tvg-logo="" group-title="Canais | Internacionais",Olympic Channel 5
-http://psrv.io:80/74447077884/snakeplay/28164
 #EXTINF:-1 tvg-id="Paramount Channel FHD" tvg-name="Paramount Channel FHD" tvg-logo="http://z4.vc/UeA" group-title="Canais | Filmes e Séries",Paramount Channel FHD
 http://psrv.io:80/74447077884/snakeplay/18805
 #EXTINF:-1 tvg-id="Paramount Channel FHD" tvg-name="Paramount Channel FHD [H265]" tvg-logo="http://z4.vc/VL0" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
@@ -1071,20 +771,6 @@ http://psrv.io:80/74447077884/snakeplay/25273
 http://psrv.io:80/74447077884/snakeplay/18580
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil SD" tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brazil SD
 http://psrv.io:80/74447077884/snakeplay/18581
-#EXTINF:-1 tvg-id="" tvg-name="PROFIT RO HD" tvg-logo="" group-title="Canais | Internacionais",PROFIT RO HD
-http://psrv.io:80/74447077884/snakeplay/28040
-#EXTINF:-1 tvg-id="" tvg-name="Realitatea TV" tvg-logo="" group-title="Canais | Internacionais",Realitatea TV
-http://psrv.io:80/74447077884/snakeplay/28043
-#EXTINF:-1 tvg-id="" tvg-name="RECORD 4K [TESTE]" tvg-logo="" group-title="Canais | 4K",RECORD 4K [TESTE]
-http://psrv.io:80/74447077884/snakeplay/26182
-#EXTINF:-1 tvg-id="Record News FHD" tvg-name="Record News FHD" tvg-logo="http://z4.vc/PJi" group-title="Canais | Notícias",Record News FHD
-http://psrv.io:80/74447077884/snakeplay/18803
-#EXTINF:-1 tvg-id="" tvg-name="Record News FHD [H265]" tvg-logo="http://z4.vc/s1i" group-title="Canais | Notícias",Record News FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/25204
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
-http://psrv.io:80/74447077884/snakeplay/18577
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News SD" tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
-http://psrv.io:80/74447077884/snakeplay/18578
 #EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RecordTV BA HD" tvg-logo="http://z4.vc/Tv1" group-title="Canais | Abertos",RecordTV BA HD
 http://psrv.io:80/74447077884/snakeplay/18496
 #EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RecordTV BA SD" tvg-logo="http://z4.vc/oth" group-title="Canais | Abertos",RecordTV BA SD
@@ -1095,8 +781,6 @@ http://psrv.io:80/74447077884/snakeplay/18494
 http://psrv.io:80/74447077884/snakeplay/18493
 #EXTINF:-1 tvg-id="RecordTV Minas HD" tvg-name="RecordTV MG HD" tvg-logo="http://z4.vc/m2C" group-title="Canais | Abertos",RecordTV MG HD
 http://psrv.io:80/74447077884/snakeplay/18501
-#EXTINF:-1 tvg-id="TV5" tvg-name="RecordTV News SD" tvg-logo="http://z4.vc/xeN" group-title="Canais | Notícias",RecordTV News SD
-http://psrv.io:80/74447077884/snakeplay/22216
 #EXTINF:-1 tvg-id="" tvg-name="RecordTV PR HD" tvg-logo="http://z4.vc/Kvw" group-title="Canais | Abertos",RecordTV PR HD
 http://psrv.io:80/74447077884/snakeplay/22471
 #EXTINF:-1 tvg-id="RecordTV Rio FHD" tvg-name="RecordTV Rio FHD" tvg-logo="http://z4.vc/P7d" group-title="Canais | Abertos",RecordTV Rio FHD
@@ -1123,17 +807,13 @@ http://psrv.io:80/74447077884/snakeplay/25221
 http://psrv.io:80/74447077884/snakeplay/18575
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV SP SD" tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
 http://psrv.io:80/74447077884/snakeplay/18579
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="" group-title="Canais | Internacionais",RED BULL TV
-http://psrv.io:80/74447077884/snakeplay/26426
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil SD" tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
 http://psrv.io:80/74447077884/snakeplay/18574
-#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD
-http://psrv.io:80/74447077884/snakeplay/28398
-#EXTINF:-1 tvg-id="Rede Vida FHD" tvg-name="Rede Vida FHD" tvg-logo="http://z4.vc/frB" group-title="Canais | Religiosos",Rede Vida FHD
+#EXTINF:-1 tvg-id="Rede Vida FHD" tvg-name="Rede Vida FHD" tvg-logo="http://z4.vc/frB" group-title="Canais | Abertos",Rede Vida FHD
 http://psrv.io:80/74447077884/snakeplay/18750
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida FHD [H265]" tvg-logo="http://z4.vc/ytn" group-title="Canais | Religiosos",Rede Vida FHD [H265]
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida FHD [H265]" tvg-logo="http://z4.vc/ytn" group-title="Canais | Abertos",Rede Vida FHD [H265]
 http://psrv.io:80/74447077884/snakeplay/25272
-#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="Rede Vida HD" tvg-logo="http://z4.vc/rJP" group-title="Canais | Religiosos",Rede Vida HD
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="Rede Vida HD" tvg-logo="http://z4.vc/rJP" group-title="Canais | Abertos"",Rede Vida HD
 http://psrv.io:80/74447077884/snakeplay/18504
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida SD" tvg-logo="http://z4.vc/DPy" group-title="Canais | Religiosos",Rede Vida SD
 http://psrv.io:80/74447077884/snakeplay/18571
@@ -1145,9 +825,6 @@ http://psrv.io:80/74447077884/snakeplay/18572
 http://psrv.io:80/74447077884/snakeplay/18573
 #EXTINF:-1 tvg-id="RedeTV! FHD" tvg-name="REDETV! [4K]" tvg-logo="http://z4.vc/SKJ" group-title="Canais | 4K",REDETV! [4K]
 http://psrv.io:80/74447077884/snakeplay/26183
-#EXTINF:-1 tvg-id="RIT" tvg-name="RIT SD" tvg-logo="" group-title="Canais | Religiosos",RIT SD
-http://psrv.io:80/74447077884/snakeplay/28403
-#EXTINF:-1 tvg-id="" tvg-name="RPC PY HD" tvg-logo="" group-title="Canais | Internacionais",RPC PY HD
 http://psrv.io:80/74447077884/snakeplay/26433
 #EXTINF:-1 tvg-id="SBT FHD" tvg-name="SBT FHD" tvg-logo="http://z4.vc/RXH" group-title="Canais | Abertos",SBT FHD
 http://psrv.io:80/74447077884/snakeplay/18764
@@ -1167,10 +844,6 @@ http://psrv.io:80/74447077884/snakeplay/22473
 http://psrv.io:80/74447077884/snakeplay/26188
 #EXTINF:-1 tvg-id="Shoptime HD" tvg-name="Shop Time HD" tvg-logo="" group-title="Canais | Variedades",Shop Time HD
 http://psrv.io:80/74447077884/snakeplay/28404
-#EXTINF:-1 tvg-id="" tvg-name="SIC PORTUGAL SD" tvg-logo="" group-title="Canais | Internacionais",SIC PORTUGAL SD
-http://psrv.io:80/74447077884/snakeplay/26437
-#EXTINF:-1 tvg-id="" tvg-name="Sky News UK" tvg-logo="" group-title="Canais | Internacionais",Sky News UK
-http://psrv.io:80/74447077884/snakeplay/28157
 #EXTINF:-1 tvg-id="Smithsonian Channel FHD" tvg-name="Smithsonian FHD" tvg-logo="" group-title="Canais | Documentários",Smithsonian FHD
 http://psrv.io:80/74447077884/snakeplay/26828
 #EXTINF:-1 tvg-id="Smithsonian Channel FHD" tvg-name="Smithsonian FHD [H265]" tvg-logo="" group-title="Canais | Documentários",Smithsonian FHD [H265]
@@ -1375,20 +1048,12 @@ http://psrv.io:80/74447077884/snakeplay/25200
 http://psrv.io:80/74447077884/snakeplay/18522
 #EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV SD" tvg-logo="http://z4.vc/67c" group-title="Canais | Documentários",TruTV SD
 http://psrv.io:80/74447077884/snakeplay/18523
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhaguera FHD [H265]" tvg-logo="http://z4.vc/76t" group-title="Canais | Globo",TV Anhaguera FHD [H265]
-http://psrv.io:80/74447077884/snakeplay/22124
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhaguera HD" tvg-logo="http://z4.vc/76t" group-title="Canais | Globo",TV Anhaguera HD
-http://psrv.io:80/74447077884/snakeplay/28062
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida FHD [H265]" tvg-logo="http://z4.vc/Bti" group-title="Canais | Abertos",TV Aparecida FHD [H265]
 http://psrv.io:80/74447077884/snakeplay/25199
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD" tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida SD
 http://psrv.io:80/74447077884/snakeplay/18530
-#EXTINF:-1 tvg-id="" tvg-name="Tv Aratu SBT Bahia SD" tvg-logo="http://z4.vc/XKO" group-title="Canais | Abertos",Tv Aratu SBT Bahia SD
-http://psrv.io:80/74447077884/snakeplay/28059
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil SD" tvg-logo="http://z4.vc/83l" group-title="Canais | Abertos",TV Brasil SD
 http://psrv.io:80/74447077884/snakeplay/18529
-#EXTINF:-1 tvg-id="" tvg-name="TV Camara SD" tvg-logo="http://z4.vc/PVk" group-title="Canais | Abertos",TV Camara SD
-http://psrv.io:80/74447077884/snakeplay/18528
 #EXTINF:-1 tvg-id="Cultura FHD" tvg-name="TV Cultura FHD" tvg-logo="http://z4.vc/MJK" group-title="Canais | Abertos",TV Cultura FHD
 http://psrv.io:80/74447077884/snakeplay/18752
 #EXTINF:-1 tvg-id="Cultura FHD" tvg-name="TV Cultura FHD [H265]" tvg-logo="http://z4.vc/GU9" group-title="Canais | Abertos",TV Cultura FHD [H265]
@@ -1403,12 +1068,6 @@ http://psrv.io:80/74447077884/snakeplay/18527
 http://psrv.io:80/74447077884/snakeplay/25197
 #EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta SP HD" tvg-logo="http://z4.vc/ARG" group-title="Canais | Abertos",TV Gazeta SP HD
 http://psrv.io:80/74447077884/snakeplay/18526
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="TV Justica SD" tvg-logo="http://z4.vc/VtA" group-title="Canais | Abertos",TV Justica SD
-http://psrv.io:80/74447077884/snakeplay/18531
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo FHD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo FHD
-http://psrv.io:80/74447077884/snakeplay/28076
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo SD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo SD
-http://psrv.io:80/74447077884/snakeplay/28075
 #EXTINF:-1 tvg-id="" tvg-name="TV Ra-Tim-Bum FHD" tvg-logo="http://z4.vc/S4M" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
 http://psrv.io:80/74447077884/snakeplay/18793
 #EXTINF:-1 tvg-id="" tvg-name="TV Ra-Tim-Bum FHD [H265]" tvg-logo="http://z4.vc/I7O" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
@@ -1417,26 +1076,6 @@ http://psrv.io:80/74447077884/snakeplay/25256
 http://psrv.io:80/74447077884/snakeplay/18524
 #EXTINF:-1 tvg-id="" tvg-name="TV Ra-Tim-Bum SD" tvg-logo="http://z4.vc/zvq" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
 http://psrv.io:80/74447077884/snakeplay/18525
-#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado SD" tvg-logo="http://z4.vc/HLw" group-title="Canais | Abertos",TV Senado SD
-http://psrv.io:80/74447077884/snakeplay/18532
-#EXTINF:-1 tvg-id="" tvg-name="TVR 1 [TESTE]" tvg-logo="" group-title="Canais | Internacionais",TVR 1 [TESTE]
-http://psrv.io:80/74447077884/snakeplay/27893
-#EXTINF:-1 tvg-id="" tvg-name="TVR 2 [TESTE]" tvg-logo="" group-title="Canais | Internacionais",TVR 2 [TESTE]
-http://psrv.io:80/74447077884/snakeplay/27894
-#EXTINF:-1 tvg-id="" tvg-name="TVR 3 [TESTE]" tvg-logo="" group-title="Canais | Internacionais",TVR 3 [TESTE]
-http://psrv.io:80/74447077884/snakeplay/27895
-#EXTINF:-1 tvg-id="" tvg-name="TVR CLUJ" tvg-logo="" group-title="Canais | Internacionais",TVR CLUJ
-http://psrv.io:80/74447077884/snakeplay/28047
-#EXTINF:-1 tvg-id="" tvg-name="TVR Craiova" tvg-logo="" group-title="Canais | Abertos",TVR Craiova
-http://psrv.io:80/74447077884/snakeplay/28048
-#EXTINF:-1 tvg-id="" tvg-name="TVR Direct[TESTE]" tvg-logo="" group-title="Canais | Internacionais",TVR Direct[TESTE]
-http://psrv.io:80/74447077884/snakeplay/27892
-#EXTINF:-1 tvg-id="" tvg-name="TVR IASI" tvg-logo="" group-title="Canais | Abertos",TVR IASI
-http://psrv.io:80/74447077884/snakeplay/28046
-#EXTINF:-1 tvg-id="" tvg-name="TVR Moldova [TESTE]" tvg-logo="" group-title="Canais | Internacionais",TVR Moldova [TESTE]
-http://psrv.io:80/74447077884/snakeplay/27896
-#EXTINF:-1 tvg-id="" tvg-name="TVR Targu Mures" tvg-logo="" group-title="Canais | Internacionais",TVR Targu Mures
-http://psrv.io:80/74447077884/snakeplay/28049
 #EXTINF:-1 tvg-id="Universal TV FHD" tvg-name="Universal Channel FHD" tvg-logo="http://z4.vc/04y" group-title="Canais | Filmes e Séries",Universal Channel FHD
 http://psrv.io:80/74447077884/snakeplay/18792
 #EXTINF:-1 tvg-id="Universal TV FHD" tvg-name="Universal Channel FHD [H265]" tvg-logo="http://z4.vc/94M" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265]
@@ -1487,7 +1126,6 @@ http://psrv.io:80/74447077884/snakeplay/18511
 http://psrv.io:80/74447077884/snakeplay/18512
 #EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZooMoo SD" tvg-logo="" group-title="Canais | Infantis",ZooMoo SD
 http://psrv.io:80/74447077884/snakeplay/28199
-
 #EXTINF:-1 tvg-id="" tvg-name="[XXX] Blue Hustler" tvg-logo="http://z4.vc/4tq" group-title="Canais | Adultos",[XXX] Blue Hustler
 http://psrv.io:80/74447077884/snakeplay/27133
 #EXTINF:-1 tvg-id="" tvg-name="[XXX] ADULT 006" tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 006
@@ -1546,10 +1184,6 @@ http://psrv.io:80/74447077884/snakeplay/29032
 http://psrv.io:80/74447077884/snakeplay/29377
 #EXTINF:-1 tvg-id="" tvg-name="[XXX] ADULT 015" tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 015
 http://psrv.io:80/74447077884/snakeplay/29378
-#EXTINF:-1 tvg-id="Telecine Premium FHD" tvg-name="Telecine Premium [4K]" tvg-logo="http://z4.vc/4S2" group-title="Canais | 4K",Telecine Premium [4K]
-http://psrv.io:80/74447077884/snakeplay/32410
-#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://z4.vc/aZb" group-title="Canais | Abertos",Globo Inter TV Cabugi SD
-http://psrv.io:80/74447077884/snakeplay/33380
 #EXTINF:-1 tvg-id="" tvg-name="[XXX] BLUE HUSTLER" tvg-logo="" group-title="Canais | Adultos",[XXX] BLUE HUSTLER
 http://psrv.io:80/74447077884/snakeplay/33381
 #EXTINF:-1 tvg-id="" tvg-name="[XXX] BRAZZERS EUROPE" tvg-logo="" group-title="Canais | Adultos",[XXX] BRAZZERS EUROPE
