@@ -47,8 +47,6 @@ http://psrv.io:80/74707782984922/snakeplay/28340
 http://psrv.io:80/74707782984922/snakeplay/18729
 #EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
 http://psrv.io:80/74707782984922/snakeplay/22242
-#EXTINF:-1 tvg-logo="http://z4.vc/68l" group-title="Canais | Abertos",Band Sergipe HD
-http://psrv.io:80/74707782984922/snakeplay/22476
 #EXTINF:-1 tvg-logo="http://z4.vc/iGF" group-title="Canais | Abertos",Band SP FHD
 http://psrv.io:80/74707782984922/snakeplay/18786
 #EXTINF:-1 tvg-logo="http://z4.vc/wHL" group-title="Canais | Abertos",Band SP FHD [H265]
@@ -739,10 +737,6 @@ http://psrv.io:80/74707782984922/snakeplay/25273
 http://psrv.io:80/74707782984922/snakeplay/18580
 #EXTINF:-1 tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brazil SD
 http://psrv.io:80/74707782984922/snakeplay/18581
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",PROFIT RO HD
-http://psrv.io:80/74707782984922/snakeplay/28040
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Realitatea TV
-http://psrv.io:80/74707782984922/snakeplay/28043
 #EXTINF:-1 tvg-logo="" group-title="Canais | 4K",RECORD 4K [TESTE]
 http://psrv.io:80/74707782984922/snakeplay/26182
 #EXTINF:-1 tvg-logo="http://z4.vc/qPi" group-title="Canais | Abertos",RecordTV SD
@@ -757,8 +751,6 @@ http://psrv.io:80/74707782984922/snakeplay/18575
 http://psrv.io:80/74707782984922/snakeplay/18579
 #EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
 http://psrv.io:80/74707782984922/snakeplay/18574
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD
-http://psrv.io:80/74707782984922/snakeplay/28398
 #EXTINF:-1 tvg-logo="http://z4.vc/tkR" group-title="Canais | Abertos",RedeTV! FHD
 http://psrv.io:80/74707782984922/snakeplay/18751
 #EXTINF:-1 tvg-logo="http://z4.vc/heG" group-title="Canais | Abertos",RedeTV! HD
